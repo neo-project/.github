@@ -15,9 +15,15 @@ To develop smart contracts for Neo in C# you need
 [neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet).
 [neo-debugger](https://github.com/neo-project/neo-debugger) can be used to
 debug contracts written in any language. See also:
-* [neo-blockchain-toolkit](https://github.com/neo-project/neo-blockchain-toolkit)
-* [neo-visual-tracker](https://github.com/neo-project/neo-visual-tracker)
 * [neo-express](https://github.com/neo-project/neo-express)
+  * [neo3-visual-tracker](https://github.com/neo-project/neo-express/tree/master/extentions/neo3-visual-tracker)
+  * [neo-blockchain-toolkit](https://github.com/neo-project/neo-express/tree/master/src/bctklib)
+* [RpcClient](https://github.com/neo-project/neo-modules/tree/master/src/RpcClient)
+
+## Examples
+
+* [Smart Contracts](https://github.com/neo-project/neo-devpack-dotnet/tree/master/examples)
+
 
 # Documentation and websites
 
