@@ -24,7 +24,6 @@ debug contracts written in any language. See also:
 
 * [Smart Contracts](https://github.com/neo-project/neo-devpack-dotnet/tree/master/examples)
 
-
 # Documentation and websites
 
 [proposals](https://github.com/neo-project/proposals) is where Neo standards
@@ -48,3 +47,8 @@ contents, if you've spotted a typo there you're welcome to submit issue/PR.
 [non-native-contracts](https://github.com/neo-project/non-native-contracts/)
 contains some well-known contracts (like NNS) deployed to both testnet and
 mainnet and useful for general audience.
+
+# Contributors
+If you would like to contribute to the any of `neo` Github repositories. Please follow
+our [coding guidelines](https://github.com/neo-project/.github/docs/neo-coding-rules.md)
+to make the review process fast as possible.
